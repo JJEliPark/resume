@@ -54,21 +54,22 @@ disable404 = true
         class = "linkedin"
         icon = "fa-linkedin"
         url = "//linkedin.com/in/jeongjin-park-70bb4b20b/"
-        title = "linkedin.com/in/jeongjin-park"
+        title = "linkedin.jeongjin-park"
 
         [[params.contact.list]]
         class = "github"
         icon = "fa-github"
         url = "//github.com/pkmon111d"
-        title = "github.com/pkmon111d"
+        title = "git.pkmon111d"
 
         [[params.contact.list]]
         class = "instagram"
         icon = "fa-instagram"
         url = "//instagram.com/jay_jay0507"
-        title = "@jay_jay0507"
+        title = "instagram.jay_jay0507"
 
     # Education section
+
     [params.education]
         enable = true
         title = "Education"
@@ -110,7 +111,7 @@ disable404 = true
         interest = "Computer Game"
 
         [[params.interests.list]]
-        interest = "Travel"
+        interest = "Wine"
 
         [[params.interests.list]]
         interest = "Tennis"
@@ -134,29 +135,18 @@ disable404 = true
         title = "Experiences"
 
         [[params.jobs.list]]
-        position = "Lead Developer"
-        dates = "2015 - Present"
-        company = "Startup Hubs, San Francisco"
+        position = "Data Scientist"
+        dates = "2020 - Present"
+        company = "LG CNS, Seoul"
         details = "**Describe your role here** Role."
 
-        [[params.jobs.list]]
-        position = "Senior Software Engineer"
-        dates = "2014 - 2015"
-        company = "Google, London"
-        details = "**Describe your role here** Role."
-
-        [[params.jobs.list]]
-        position = "UI Developer"
-        dates = "2012 - 2014"
-        company = "Amazon, London"
-        details = "**Describe your role here** Role."
 
     # Projects section
     [params.projects]
         enable = true
         icon = "fa-archive"
         title = "Projects"
-        intro = "**As A DS ** Worked As a DS"
+        intro = "**You can list your side projects or open source libraries in this section.** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus"
 
         [[params.projects.list]]
         title = "App Campaign Operation Analysis"
@@ -192,14 +182,23 @@ disable404 = true
         [[params.skills.list]]
         skill = "Python"
         level = "98%"
-                
+
+
         [[params.skills.list]]
         skill = "R"
         level = "98%"
+ 
+        [[params.skills.list]]
+        skill = "Pyspark"
+        level = "85%"
 
         [[params.skills.list]]
-        skill = "SQL"
-        level = "95%"
+        skill = "SAS"
+        level = "75%"
+
+        [[params.skills.list]]
+        skill = "HTML & CSS"
+        level = "60%"
 
 
 
