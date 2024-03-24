@@ -1,4 +1,4 @@
 [submodule "public"]
 	path = public
-	url = https://github.com/JJEliPark/JJEliPark.github.io
+	url = https://github.com/JJEliPark/JJEliPark.github.io.git
 	branch = main
