@@ -24,7 +24,7 @@ disable404 = true
     # are available. Also the source LESS files are included so
     # it’s quick and easy to change the styling and colour scheme.
 
-    styles = "styles.css"
+    styles = "styles-4.css"
 
 # Sidebar sections
 
@@ -41,38 +41,32 @@ disable404 = true
         [[params.contact.list]]
         class = "email"
         icon = "fa-envelope"
-        url = "mailto: yourname@email.com"
-        title = "pkmon1d@snu.ac.kr"
+        url = "mailto: pkmon111d@gmail.com"
+        title = "pkmon111d@gmail.com"
 
         [[params.contact.list]]
         class = "phone"
         icon = "fa-phone"
-        url = "tel:+1234567890"
+        url = "tel:+8210-4195-0878"
         title = "+8210-4195-0878"
-
-        [[params.contact.list]]
-        class = "website"
-        icon = "fa-globe"
-        url = "//portfoliosite.com"
-        title = "portfoliosite.com"
 
         [[params.contact.list]]
         class = "linkedin"
         icon = "fa-linkedin"
-        url = "//linkedin.com/in/johndoe"
-        title = "linkedin.com/in/johndoe"
+        url = "//linkedin.com/in/jeongjin-park-70bb4b20b/"
+        title = "linkedin.com/in/jeongjin-park"
 
         [[params.contact.list]]
         class = "github"
         icon = "fa-github"
-        url = "//github.com/username"
-        title = "github.com/username"
+        url = "//github.com/pkmon111d"
+        title = "github.com/pkmon111d"
 
         [[params.contact.list]]
-        class = "twitter"
-        icon = "fa-twitter"
-        url = "//twitter.com/username"
-        title = "@twittername"
+        class = "instagram"
+        icon = "fa-instagram"
+        url = "//instagram.com/jay_jay0507"
+        title = "@jay_jay0507"
 
     # Education section
     [params.education]
@@ -85,7 +79,7 @@ disable404 = true
         dates = "2023 - 2024"
 
         [[params.education.list]]
-        degree = "BSc in Statistics"
+        degree = "BAc in Statistics"
         college = "Korea University"
         dates = "2014 - 2020"
 
@@ -102,6 +96,10 @@ disable404 = true
         language = "English"
         level = "Professional"
 
+        [[params.language.list]]
+        language = "Japanese"
+        level = "Intermediate"
+
 
     # Interests section
     [params.interests]
@@ -109,7 +107,10 @@ disable404 = true
         title = "Interests"
 
         [[params.interests.list]]
-        interest = "Computer"
+        interest = "Computer Game"
+
+        [[params.interests.list]]
+        interest = "Travel"
 
         [[params.interests.list]]
         interest = "Tennis"
@@ -200,17 +201,7 @@ disable404 = true
         skill = "SQL"
         level = "95%"
 
-        [[params.skills.list]]
-        skill = "HTML5 & CSS"
-        level = "95%"
 
-        [[params.skills.list]]
-        skill = "Ruby on Rails"
-        level = "75%"
-
-        [[params.skills.list]]
-        skill = "Sketch & Photoshop"
-        level = "60%"
 
     # Footer section
 
