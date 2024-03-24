@@ -1,0 +1,14 @@
+{
+  "comments": {
+    "dependencies": {
+      "postcss": "project",
+      "postcss-cli": "project"
+    },
+    "devDependencies": {}
+  },
+  "dependencies": {
+    "postcss": "^8.4.38",
+    "postcss-cli": "^11.0.0"
+  },
+  "devDependencies": {}
+}
