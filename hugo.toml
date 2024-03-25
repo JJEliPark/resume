@@ -75,12 +75,12 @@ disable404 = true
         title = "Education"
 
         [[params.education.list]]
-        degree = "MSc in Data Science"
+        degree = "Graduate Student in Data Science"
         college = "Seoul National University"
-        dates = "2023 - 2024"
+        dates = "2023 - Present"
 
         [[params.education.list]]
-        degree = "BAc in Statistics"
+        degree = "Bachelor's degree in Statistics"
         college = "Korea University"
         dates = "2014 - 2020"
 
@@ -132,46 +132,41 @@ disable404 = true
     [params.experiences]
         enable = true
         icon = "fa-briefcase"
-        title = "Experiences"
+        title = "Work Experience"
 
         [[params.jobs.list]]
         position = "Data Scientist"
         dates = "2020 - Present"
         company = "LG CNS, Seoul"
-        details = "**Describe your role here** Role."
+        details = "Extract Insights from data using **ML/DL Techniques** to inform business decisions."
 
 
     # Projects section
     [params.projects]
         enable = true
         icon = "fa-archive"
-        title = "Projects"
+        title = "Project"
         intro = "**You can list your side projects or open source libraries in this section.** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus"
 
         [[params.projects.list]]
         title = "App Campaign Operation Analysis"
-        url = "https://github.com/aerohub/hugrid"
-        tagline = "Grid theme for Hugo. It's a kind of boilerplate to perform anyone or anything quickly. Portfolio, collection, bookmarks, contacts and so on"
+        tagline = "in LG U+, Enhanced marketing campaigns through analysis, message optimization, app personalization, and algorithmic marketing prioritization."
 
         [[params.projects.list]]
         title = "Customer Micro Segmentation"
-        url = "https://github.com/aerohub/hugo-faq-theme"
-        tagline = "Simple FAQ Theme for Hugo. You may use this theme for building very simple FAQs or note lists."
+        tagline = "in LG Electronitcs, Defined customer personas using data from multiple fields, employing density-based clustering and dimensional reduction."
 
         [[params.projects.list]]
         title = "Washing Machine Usage Pattern Analysis"
-        url = "https://github.com/aerohub/hugo-identity-theme"
-        tagline = "Little profile/card-style template for Hugo."
+        tagline = "in LG Electronitcs, Analyzed washing machine usage patterns using sensor and app data, with preprocessing and clustering in Pyspark."
 
         [[params.projects.list]]
         title = "Customer Purchase Journey Analysis"
-        url = "https://github.com/aerohub/hugo-orbit-theme"
-        tagline = "Hugo Resume/CV Theme for Developers."
+        tagline = "in LG Electronitcs, Tracked customers' paths from ad exposure to purchase, visualizing with Sankey Plots."
 
         [[params.projects.list]]
         title = "Create Customer Interest Index"
-        url = "https://github.com/aerohub/hugo-me-theme"
-        tagline = "A simple responsive Hugo theme for personal site."
+        tagline = "in LG Corporation, Developed an index measuring customer interest levels across different areas using data from LG affiliates and factor analysis."
 
     # Skills section
     [params.skills]
