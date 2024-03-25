@@ -24,7 +24,7 @@ disable404 = true
     # are available. Also the source LESS files are included so
     # it’s quick and easy to change the styling and colour scheme.
 
-    styles = "styles.css"
+    styles = "styles-4.css"
 
 # Sidebar sections
 
@@ -54,19 +54,19 @@ disable404 = true
         class = "linkedin"
         icon = "fa-linkedin"
         url = "//linkedin.com/in/jeongjin-park-70bb4b20b/"
-        title = "@jeongjin-park"
+        title = "linkedin.jeongjin-park"
 
         [[params.contact.list]]
         class = "github"
         icon = "fa-github"
-        url = "//github.com/JJEliPark"
-        title = "@pkmon111d"
+        url = "//github.com/pkmon111d"
+        title = "git.pkmon111d"
 
         [[params.contact.list]]
         class = "instagram"
         icon = "fa-instagram"
         url = "//instagram.com/jay_jay0507"
-        title = "@jay_jay0507"
+        title = "instagram.jay_jay0507"
 
     # Education section
 
@@ -108,13 +108,13 @@ disable404 = true
         title = "Interests"
 
         [[params.interests.list]]
+        interest = "Computer Game"
+
+        [[params.interests.list]]
         interest = "Wine"
 
         [[params.interests.list]]
         interest = "Tennis"
-        
-        [[params.interests.list]]
-        interest = "Computer Game"
 
 
 # Main body sections
@@ -126,7 +126,7 @@ disable404 = true
         enable = true
         icon = "fa-user"
         title = "Career Profile"
-        summary = "**Data Scientist** at LG CNS. Applying data science and machine learning to enhance business decisions, personalize customer service, and refine marketing strategies through detailed analysis and segmentation projects."
+        summary = "**Data Scientist** Worked as a DS."
 
     # Experiences section
     [params.experiences]
