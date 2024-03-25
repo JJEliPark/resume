@@ -75,12 +75,12 @@ disable404 = true
         title = "Education"
 
         [[params.education.list]]
-        degree = "Graduate Student in Data Science"
+        degree = "Grad' Student in Data Science"
         college = "Seoul National University"
         dates = "2023 - Present"
 
         [[params.education.list]]
-        degree = "Bachelor's degree in Statistics"
+        degree = "BA's degree in Statistics"
         college = "Korea University"
         dates = "2014 - 2020"
 
@@ -146,7 +146,7 @@ disable404 = true
         enable = true
         icon = "fa-archive"
         title = "Project"
-        intro = "**You can list your side projects or open source libraries in this section.** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus"
+        intro = "**As a Data Scientist,** I have undertaken various projects within the LG Group."
 
         [[params.projects.list]]
         title = "App Campaign Operation Analysis"
@@ -192,9 +192,12 @@ disable404 = true
         level = "75%"
 
         [[params.skills.list]]
-        skill = "HTML & CSS"
-        level = "60%"
+        skill = "Machine Learning"
+        level = "90%"
 
+        [[params.skills.list]]
+        skill = "Deep Learning"
+        level = "85%"
 
 
     # Footer section
@@ -207,4 +210,4 @@ disable404 = true
     # As for Hugo port you may rewrite the "Ported for..." line with setting your name below.
 
     [params.footer]
-        copyright = ""
+        copyright = "JJEliPark"
