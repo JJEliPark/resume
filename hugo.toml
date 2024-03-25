@@ -80,7 +80,7 @@ disable404 = true
         dates = "2023 - Present"
 
         [[params.education.list]]
-        degree = "BA's degree in Statistics"
+        degree = "BA's in Statistics"
         college = "Korea University"
         dates = "2014 - 2020"
 
@@ -146,7 +146,7 @@ disable404 = true
         enable = true
         icon = "fa-archive"
         title = "Project"
-        intro = "**As a Data Scientist,** I have undertaken various projects within the LG Group."
+        intro = "**As a Data Scientist,** analyzing customer web logs and machine sensor data."
 
         [[params.projects.list]]
         title = "App Campaign Operation Analysis"
@@ -166,7 +166,7 @@ disable404 = true
 
         [[params.projects.list]]
         title = "Create Customer Interest Index"
-        tagline = "in LG Corporation, Developed an index measuring customer interest levels across different areas using data from LG affiliates and factor analysis."
+        tagline = "in LG, Developed an index measuring customer interest levels across different areas using data from LG affiliates and factor analysis."
 
     # Skills section
     [params.skills]
